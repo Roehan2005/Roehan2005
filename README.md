@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="300%" height = "5%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV3Z25jNjN0ZGo5dGdjczcwMmVkcHJrdTM2NGo4N3lqM3hoZWZnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.gif" alt="cover" />
+<img align="center" width="30%" height = "auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV3Z25jNjN0ZGo5dGdjczcwMmVkcHJrdTM2NGo4N3lqM3hoZWZnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.gif" alt="cover" />
 </div>
 
 <h1> Hey there, Code Explorer!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
